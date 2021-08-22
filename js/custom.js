@@ -16,7 +16,7 @@ btns.forEach(a => {
 
 
     if(answ == 1) {
-      infernal.innerHTML = "Пошел нахуй пидарас!! ты ахуел чтоли??";
+      infernal.innerHTML = "Пошел нахуй пидарас!! ты ахуел сука блять??";
       lil.innerHTML = "Зарежууу нахоооойй!!1";
       panda.innerHTML = "Ты на себя посмотри! Еблан, вчера умер!!";
     }
